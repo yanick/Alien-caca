@@ -1,7 +1,0 @@
-^dist.ini
-^MANIFEST.SKIP
-Alien-CACA.*
-^\.gitignore
-^\.git
-^\.build
-
