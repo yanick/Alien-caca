@@ -1,6 +1,8 @@
 Revision history for Alien-CACA
 
 {{$NEXT}}
+  - Alien::caca, not Alien::CACA. oops.
+
   [ API CHANGES ]
 
   [ BUG FIXES ]

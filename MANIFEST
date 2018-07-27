@@ -11,7 +11,7 @@ README.mkdn
 SIGNATURE
 cpanfile
 doap.xml
-lib/Alien/CACA.pm
+lib/Alien/caca.pm
 t/00-compile.t
 t/00-report-prereqs.dd
 t/00-report-prereqs.t
