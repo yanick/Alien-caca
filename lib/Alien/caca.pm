@@ -1,8 +1,10 @@
 package Alien::caca;
-# ABSTRACT: Alien package for the Colored ASCII Art library
+# ABSTRACT: Alien package for the Colored ASCII Art library 
 
 use strict;
 use warnings;
+
+use parent 'Alien::Base';
 
 1;
 
